@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_words"
+            android:icon="@drawable/ic_action_words"
+            android:title="@string/words" />
+        <item
+            android:id="@+id/nav_known_word"
+            android:icon="@drawable/ic_action_known_word"
+            android:title="@string/known_words" />
+        <item
+            android:id="@+id/nav_audio"
+            android:icon="@drawable/ic_action_audio"
+            android:title="@string/audio_lessons" />
+        <!--<item
+            android:id="@+id/nav_translate"
+            android:icon="@drawable/ic_action_translate"
+            android:title="@string/translater" />-->
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_action_notification"
+            android:title="@string/notification" />
+    </group>
+
+</menu>

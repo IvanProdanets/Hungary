@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:9:22-75
+application
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:11:5-36:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\07f004303c5309e0e37525d6f97269635b6460c3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\f167840b068500aaf1ae6b546f5dc27ad4736c4c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\79225a9255557c53f35626862ff99c68454dfa34\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\bc10d2ba1f190293c0c2761aac547ea6ff860253\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\b867b62cb1734547628d65bf6ff567e90f0bf1b7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.android\build-cache\f011ae0f79b04af1a3ccdadc9273c843a97f0af8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\63a9c20de5a7ce943d14c815315a7a84ed4846a8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\de25df8856cf7a21b9ea45fb76e8cdb93a7138ab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\da9b432f196bde2f379fefb6cd9b8020fa6a0953\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\86e8481dd0434cb28ae8d0cbb7809b34cdba8068\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\7c07c264bbc202c8ff5e93f5cfd8f5c1111ecd46\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\30f60fe4dab2fc878e78631843c6c45b1b9bf3d7\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:16:9-35
+	android:roundIcon
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:15:9-55
+	android:allowBackup
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.study.android.hungary.MainActivity
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:18:9-28:20
+	android:label
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:20:13-45
+	android:launchMode
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:21:13-43
+	android:theme
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.study.android.hungary.WordActivity
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:30:9-50
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:30:19-47
+activity#com.study.android.hungary.AudioLessonActivity
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:31:9-57
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:31:19-54
+receiver#com.study.android.hungary.fragments.receiver.AlarmReceiver
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:33:9-70
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:33:19-67
+activity#com.study.android.hungary.KnownWordActivity
+ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:35:9-64
+	android:name
+		ADDED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml:35:19-52
+uses-sdk
+INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\07f004303c5309e0e37525d6f97269635b6460c3\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\f167840b068500aaf1ae6b546f5dc27ad4736c4c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\79225a9255557c53f35626862ff99c68454dfa34\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\bc10d2ba1f190293c0c2761aac547ea6ff860253\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.android\build-cache\81189e822c333b20c3167eca1db8e2e196c47e14\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\b867b62cb1734547628d65bf6ff567e90f0bf1b7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.android\build-cache\f011ae0f79b04af1a3ccdadc9273c843a97f0af8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\63a9c20de5a7ce943d14c815315a7a84ed4846a8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\de25df8856cf7a21b9ea45fb76e8cdb93a7138ab\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\da9b432f196bde2f379fefb6cd9b8020fa6a0953\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\86e8481dd0434cb28ae8d0cbb7809b34cdba8068\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\7c07c264bbc202c8ff5e93f5cfd8f5c1111ecd46\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\30f60fe4dab2fc878e78631843c6c45b1b9bf3d7\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\07f004303c5309e0e37525d6f97269635b6460c3\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AndroidStudioProjects\Hungary\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\07f004303c5309e0e37525d6f97269635b6460c3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Admin\.android\build-cache\f167840b068500aaf1ae6b546f5dc27ad4736c4c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\79225a9255557c53f35626862ff99c68454dfa34\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Admin\.android\build-cache\bc10d2ba1f190293c0c2761aac547ea6ff860253\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Admin\.android\build-cache\81189e822c333b20c3167eca1db8e2e196c47e14\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Admin\.android\build-cache\b867b62cb1734547628d65bf6ff567e90f0bf1b7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Admin\.android\build-cache\63a9c20de5a7ce943d14c815315a7a84ed4846a8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Admin\.android\build-cache\de25df8856cf7a21b9ea45fb76e8cdb93a7138ab\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Admin\.android\build-cache\da9b432f196bde2f379fefb6cd9b8020fa6a0953\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Admin\.android\build-cache\86e8481dd0434cb28ae8d0cbb7809b34cdba8068\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Admin\.android\build-cache\7c07c264bbc202c8ff5e93f5cfd8f5c1111ecd46\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Admin\.android\build-cache\30f60fe4dab2fc878e78631843c6c45b1b9bf3d7\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\07f004303c5309e0e37525d6f97269635b6460c3\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Admin\.android\build-cache\07f004303c5309e0e37525d6f97269635b6460c3\output\AndroidManifest.xml:26:9-47

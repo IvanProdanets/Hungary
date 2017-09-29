@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_known_word.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_known_word.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_audio.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_dynamic.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_dynamic.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_translate.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_translate.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_words.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_words.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_notification.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_change.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Hungary\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_change.png"
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="horizontal"
+    android:weightSum="10">
+
+    <ImageView
+        android:id="@+id/imageViewAudioLesson"
+        android:layout_width="0dp"
+        android:layout_height="55dp"
+        android:layout_weight="2"
+        android:clickable="true"
+        android:layout_gravity="center"/>
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_weight="8"
+        android:layout_width="0dp"
+        android:orientation="vertical"
+        android:weightSum="10"
+        >
+        <TextView
+            android:id="@+id/textViewAudioLessonHU"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="6"
+            android:text="TextView"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:clickable="true"/>
+        <TextView
+            android:id="@+id/textViewAudioLessonUA"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:gravity="center|top"
+            android:text="TextView"
+            android:clickable="true"/>
+    </LinearLayout>
+
+</LinearLayout>
